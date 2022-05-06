@@ -112,7 +112,7 @@ header .nevigation li a{
   }
 
   .content .imgBox{
-      width: 1000px;
+      width: 500px;
       display: flex;
       justify-content: flex-end;
   }
